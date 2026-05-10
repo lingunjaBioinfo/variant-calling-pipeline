@@ -20,3 +20,7 @@ results/variants/NA12878_chr20_snps.vcf.gz
 results/variants/NA12878_chr20_snps.vcf.gz.tbi
 results/variants/NA12878_chr20_snps_filtered.vcf.gz
 results/variants/NA12878_chr20_snps_filtered.vcf.gz.tbi
+results/variants/NA12878_chr20_PASS_fixed.vcf.gz
+results/variants/NA12878_chr20_PASS_fixed.vcf.gz.tbi
+results/variants/quality_distribution.png
+results/variants/variant_types.png
