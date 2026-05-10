@@ -13,3 +13,19 @@ GenotypeGVCFs → Hard Filtering
 
 ## Tools
 GATK4, BWA-MEM, samtools, Ubuntu, conda
+
+## Visualizations
+
+### Variant Type Distribution
+
+
+![Variant Types](analysis/variant_types.png)
+
+
+
+### Quality Score Distribution
+
+
+![Quality Scores](analysis/quality_distribution.png)
+
+
