@@ -1,0 +1,22 @@
+# Raw data
+data/
+genome/
+
+# Intermediate BAM files
+results/bam/
+
+# Intermediate VCF files
+results/variants/NA12878_chr20.g.vcf.gz
+results/variants/NA12878_chr20.g.vcf.gz.tbi
+results/variants/NA12878_chr20_final.vcf.gz
+results/variants/NA12878_chr20_final.vcf.gz.tbi
+results/variants/NA12878_chr20_genotyped.vcf.gz
+results/variants/NA12878_chr20_genotyped.vcf.gz.tbi
+results/variants/NA12878_chr20_indels.vcf.gz
+results/variants/NA12878_chr20_indels.vcf.gz.tbi
+results/variants/NA12878_chr20_indels_filtered.vcf.gz
+results/variants/NA12878_chr20_indels_filtered.vcf.gz.tbi
+results/variants/NA12878_chr20_snps.vcf.gz
+results/variants/NA12878_chr20_snps.vcf.gz.tbi
+results/variants/NA12878_chr20_snps_filtered.vcf.gz
+results/variants/NA12878_chr20_snps_filtered.vcf.gz.tbi
